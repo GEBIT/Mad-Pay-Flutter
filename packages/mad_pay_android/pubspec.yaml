@@ -4,18 +4,22 @@ version: 2.2.14
 repository: https://github.com/MadBrains/Mad-Pay-Flutter
 issue_tracker: https://github.com/MadBrains/Mad-Pay-Flutter/issues
 homepage: https://madbrains.ru/
+publish_to: none
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=2.12.0"
+  sdk: "^3.6.0"
+  flutter: '>=3.27.0'
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  mad_pay_platform_interface: ^2.2.14
-  flutter_svg: ^1.1.6
+  mad_pay_platform_interface:
+    git:
+      url: https://github.com/TomKrauss/Mad-Pay-Flutter
+      path: packages/mad_pay_platform_interface
+  flutter_svg: ^2.0.17
 
 dev_dependencies:
   flutter_test:

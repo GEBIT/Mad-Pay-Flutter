@@ -1,18 +1,18 @@
 <a href="https://madbrains.ru/?utm_source=gthb"><img src="docs/banner.png"></a>
 <img align="left" src="docs/madpay.png" width="480" height="360" /></a>
 
-<h1 align="center">Mad Pay</h1>
+# Mad Pay
 Easy integration with Google Pay and Apple Pay for your flutter app.
 
 <p><h4> We solve problems of brand presence on mobile devices, specializing in development of mobile applications and services in the b2c segment.</h4>
 <a href="https://madbrains.ru/?utm_source=gthb">
 <img src="docs/get_started_stroke.png" width="249" height="45"></a>
-</p>
+
 
 <p><h5>Subscribe for the latest updates:</h5>
 <a href="https://github.com/MadBrains" >
 <img src="docs/follow_us_stroke.png" width="138" height="26"></a></p>
-</br>
+
 
 ## SDK Features
 * Pay with Apple Pay and Google Pay
@@ -87,10 +87,10 @@ Take a look at the following resources to manage your payment accounts and learn
 |  | Google Pay | Apple Pay |
 |:---|:---|:---|
 | Platforms | Android | iOS |
-| Documentation | [Overview](https://developers.google.com/pay/api/android/overview) | [Overview](https://developer.apple.com/apple-pay/implementation/)
+| Documentation | [Overview](https://developers.google.com/pay/api/android/overview) | [Overview](https://developer.apple.com/apple-pay/implementation/)|
 | Console | [Google Pay Business Console](https://pay.google.com/business/console/) |  [Developer portal](https://developer.apple.com/account/)  |
-| Reference | [API reference](https://developers.google.com/pay/api/android/reference/client) | [Apple Pay API](https://developer.apple.com/documentation/passkit/apple_pay/)
-| Style guidelines | [Brand guidelines](https://developers.google.com/pay/api/android/guides/brand-guidelines) | [Buttons and Marks](https://developer.apple.com/design/human-interface-guidelines/apple-pay/overview/buttons-and-marks/)
+| Reference | [API reference](https://developers.google.com/pay/api/android/reference/client) | [Apple Pay API](https://developer.apple.com/documentation/passkit/apple_pay/)|
+| Style guidelines | [Brand guidelines](https://developers.google.com/pay/api/android/guides/brand-guidelines) | [Buttons and Marks](https://developer.apple.com/design/human-interface-guidelines/apple-pay/overview/buttons-and-marks/)|
 
 [apple]: https://developer.apple.com/documentation/passkit/apple_pay/setting_up_apple_pay_requirements
 [google]: https://developers.google.com/pay/api/android/overview
