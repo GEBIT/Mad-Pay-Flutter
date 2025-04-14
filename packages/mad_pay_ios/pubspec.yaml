@@ -12,7 +12,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  mad_pay_platform_interface: ^2.2.14
+  mad_pay_platform_interface:
+    git:
+      url: https://github.com/TomKrauss/Mad-Pay-Flutter
+      path: packages/mad_pay_platform_interface
 
 dev_dependencies:
   flutter_test:
